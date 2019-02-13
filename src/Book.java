@@ -1,7 +1,8 @@
-public class Book extends Product {
+public final class Book extends Product {
 
     private String author;
     private int pages;
+    private long ISBN;
 
     public Book(){
 
@@ -28,9 +29,27 @@ public class Book extends Product {
         this.pages = pages;
     }
 
+    public long getISBN() {
+        return ISBN;
+    }
+
+    public void setISBN(long ISBN) {
+        this.ISBN = ISBN;
+    }
+
     public String toString() {
         return super.toString() +
                 "Author:             " + author + "\n" +
                 "Pages:              " + pages + "\n";
+    }
+
+    @Override
+    public boolean equals(Object b){
+        Book b1 = (Book) b;
+        if (getISBN()==(b1.getISBN())){
+            return true;
+        } else {
+            return false;
+        }
     }
 }

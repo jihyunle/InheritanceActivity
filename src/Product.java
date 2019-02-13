@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
-public class Product {
+public abstract class Product {
 
     private String code;
     private String description;
@@ -44,6 +44,17 @@ public class Product {
         return  "Code:               " + code + "\n" +
                 "Description:        " + description + "\n" +
                 "Price:              " + this.getFormattedPrice() + "\n";
+    }
+
+    /* Create an override of the equals class for the superclass, and Book and Software subclasses.*/
+    @Override
+    public boolean equals(Object p){
+        Product prod = (Product) p;
+        if (this.getDescription().equalsIgnoreCase(prod.getDescription())){
+            return true;
+        } else {
+            return false;
+        }
     }
 
     private String getFormattedPrice() {

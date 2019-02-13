@@ -1,4 +1,4 @@
-public class Software extends Product {
+public final class Software extends Product {
 
     private String programmer;
     private String platform; // linux, mac, or pc
@@ -42,5 +42,15 @@ public class Software extends Product {
         return super.toString() +
                 "Platform:           " + platform + "\n" +
                 "OS:                 " + os + "\n";
+    }
+
+    @Override
+    public boolean equals(Object s){
+        Software s1 = (Software) s;
+        if (getProgrammer()==(s1.getProgrammer())){
+            return true;
+        } else {
+            return false;
+        }
     }
 }
