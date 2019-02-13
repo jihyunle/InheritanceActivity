@@ -47,15 +47,17 @@ public abstract class Product {
     }
 
     /* Create an override of the equals class for the superclass, and Book and Software subclasses.*/
-    @Override
-    public boolean equals(Object p){
-        Product prod = (Product) p;
-        if (this.getDescription().equalsIgnoreCase(prod.getDescription())){
-            return true;
-        } else {
-            return false;
-        }
-    }
+//    @Override
+//    public boolean equals(Object p){
+//        Product prod = (Product) p;
+//        if (this.getCode().equalsIgnoreCase(prod.getCode())){
+//            return true;
+//        } else {
+//            return false;
+//        }
+//    }
+
+    abstract boolean compare(Product p);  // an abstract method
 
     private String getFormattedPrice() {
         // Use the NumberFormat class to format the price to 2 decimal places

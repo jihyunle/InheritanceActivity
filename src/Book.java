@@ -1,4 +1,4 @@
-public final class Book extends Product {
+public class Book extends Product {
 
     private String author;
     private int pages;
@@ -43,13 +43,23 @@ public final class Book extends Product {
                 "Pages:              " + pages + "\n";
     }
 
-    @Override
-    public boolean equals(Object b){
-        Book b1 = (Book) b;
-        if (getISBN()==(b1.getISBN())){
+//    @Override
+//    public boolean equals(Object b){
+//        Book b1 = (Book) b;
+//        if (getISBN()==(b1.getISBN())){
+//            return true;
+//        } else {
+//            return false;
+//        }
+//    }
+
+    boolean compare(Product p){
+        Book b = (Book) p;
+        if (getISBN()==(b.getISBN())){
             return true;
         } else {
             return false;
         }
     }
+
 }

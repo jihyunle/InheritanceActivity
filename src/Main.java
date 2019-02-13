@@ -31,8 +31,12 @@ public class Main {
 
 //        System.out.println(b.equals(s));
 //        System.out.println(b.equals(b));
-        System.out.println(b.equals(c));
-        System.out.println(b.equals(d));
+
+//        System.out.println(b.equals(c));
+//        System.out.println(b.equals(d));
+
+        System.out.println(b.compare(c));
+        System.out.println(b.compare(d));
 
     }
 }

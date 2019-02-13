@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02a2a363-5340-48bf-bd50-3bc1fad59ab6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
@@ -19,12 +20,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+            <state relative-caret-position="341">
+              <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1424#1425#0" expanded="true" />
-                <element signature="e#1452#1453#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Software.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+            <state relative-caret-position="357">
+              <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
               <folding>
                 <element signature="e#387#388#0" expanded="true" />
                 <element signature="e#420#421#0" expanded="true" />
@@ -56,21 +55,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="26" />
+            <state relative-caret-position="404">
+              <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
               <folding>
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="34" column="38" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="38" />
+            <state relative-caret-position="493">
+              <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -105,10 +104,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Product.java" />
         <option value="$PROJECT_DIR$/src/Software.java" />
         <option value="$PROJECT_DIR$/src/Book.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Product.java" />
       </list>
     </option>
   </component>
@@ -127,20 +126,20 @@
         <subPane>
           <expand>
             <path>
-              <item name="InheritanceActivity1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InheritanceActivity1" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritanceActivity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceActivity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="InheritanceActivity1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InheritanceActivity1" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritanceActivity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InheritanceActivity" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,22 +188,22 @@
       <updated>1550083212736</updated>
       <workItem from="1550083214126" duration="1064000" />
       <workItem from="1550084432426" duration="4855000" />
+      <workItem from="1550089421221" duration="2455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5919000" />
+    <option name="totallyTimeSpent" value="8374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24945295" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32932165" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
@@ -215,8 +214,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32932165" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -232,20 +232,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        <state relative-caret-position="341">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1424#1425#0" expanded="true" />
-            <element signature="e#1452#1453#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Software.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="52" column="25" lean-forward="true" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        <state relative-caret-position="357">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
           <folding>
             <element signature="e#387#388#0" expanded="true" />
             <element signature="e#420#421#0" expanded="true" />
@@ -265,29 +263,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="26" />
+        <state relative-caret-position="404">
+          <caret line="58" column="24" lean-forward="true" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
           <folding>
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="38" />
+        <state relative-caret-position="493">
+          <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
         </state>
       </provider>
     </entry>

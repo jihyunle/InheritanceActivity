@@ -44,10 +44,19 @@ public final class Software extends Product {
                 "OS:                 " + os + "\n";
     }
 
-    @Override
-    public boolean equals(Object s){
-        Software s1 = (Software) s;
-        if (getProgrammer()==(s1.getProgrammer())){
+//    @Override
+//    public boolean equals(Object s){
+//        Software s1 = (Software) s;
+//        if (getProgrammer()==(s1.getProgrammer())){
+//            return true;
+//        } else {
+//            return false;
+//        }
+//    }
+
+    boolean compare(Product p){
+        Software s = (Software) p;
+        if (getProgrammer()==(s.getProgrammer())){
             return true;
         } else {
             return false;
